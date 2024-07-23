@@ -1,0 +1,399 @@
+{
+    "id": 536648,
+    "modelId": 462775,
+    "name": "v1.5",
+    "createdAt": "2024-05-29T08:52:18.136Z",
+    "updatedAt": "2024-06-07T18:25:49.022Z",
+    "status": "Published",
+    "publishedAt": "2024-05-30T16:10:13.621Z",
+    "trainedWords": [
+        "blue_poison_\\(arknights\\)",
+        "la_pluma_\\(arknights\\)"
+    ],
+    "trainingStatus": null,
+    "trainingDetails": null,
+    "baseModel": "Pony",
+    "baseModelType": null,
+    "earlyAccessTimeFrame": 0,
+    "description": null,
+    "air": "urn:air:pony:lora:civitai:462775@536648",
+    "stats": {
+        "downloadCount": 903,
+        "ratingCount": 0,
+        "rating": 0,
+        "thumbsUpCount": 120
+    },
+    "model": {
+        "name": "All Characters in Arknights \u660e\u65e5\u65b9\u821f\u5168\u89d2\u8272",
+        "type": "LORA",
+        "nsfw": false,
+        "poi": false
+    },
+    "files": [
+        {
+            "id": 453250,
+            "sizeKB": 226714.03515625,
+            "name": "arknight_all_v2.safetensors",
+            "type": "Model",
+            "pickleScanResult": "Success",
+            "pickleScanMessage": "No Pickle imports",
+            "virusScanResult": "Success",
+            "virusScanMessage": null,
+            "scannedAt": "2024-05-29T09:00:41.122Z",
+            "metadata": {
+                "format": "SafeTensor",
+                "size": null,
+                "fp": null
+            },
+            "hashes": {
+                "AutoV1": "9CD311EE",
+                "AutoV2": "5CE5B52796",
+                "SHA256": "5CE5B527969BB9B2758624F18E00D438B164C06E7942191300B2615805985C7B",
+                "CRC32": "9180666B",
+                "BLAKE3": "7E4B13AC87CCCDB8B684A5AF37569D3C2017C7B963CD7BB1A1A84BF95D531B03",
+                "AutoV3": "48209D197897"
+            },
+            "primary": true,
+            "downloadUrl": "https://civitai.com/api/download/models/536648"
+        }
+    ],
+    "images": [
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/993bc1aa-b570-4fb4-b7a0-b9c39060d448/width=450/14052715.jpeg",
+            "nsfwLevel": 1,
+            "width": 832,
+            "height": 1216,
+            "hash": "UZLg;GR*_3-:~qjZ?bR+9ZaxMyW=%MofM{oJ",
+            "type": "image",
+            "metadata": {
+                "hash": "UZLg;GR*_3-:~qjZ?bR+9ZaxMyW=%MofM{oJ",
+                "size": 964120,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 2919229892,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:arknight_all_v2": "48209d197897"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:arknight_all_v2:1>,1girl,arm_tattoo,bad_id,bad_twitter_id,bead_bracelet,black_collar,black_hair,black_jacket,china_dress,cleavage_cutout,dragon_horns,dusk_\\(arknights\\),ear_piercing,finger_to_eye,green_hair,green_skin,grey_background,hair_over_one_eye,highres,long_hair,looking_at_viewer,off_shoulder,pointy_ears,red_eyes,red_necktie,sidelocks,simple_background,sleeveless_dress,small_breasts,smile,solo,streaked_hair,symbol-only_commentary,upper_body,white_dress,",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "48209d197897",
+                        "name": "arknight_all_v2",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "mole_under_eye,logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fd754641-1f57-46c7-87be-aa5f2f597993/width=450/14051743.jpeg",
+            "nsfwLevel": 1,
+            "width": 832,
+            "height": 1216,
+            "hash": "UZLzUM-Tkqo$~qxDtQS~Kkae?FNK.8Rk-p%L",
+            "type": "image",
+            "metadata": {
+                "hash": "UZLzUM-Tkqo$~qxDtQS~Kkae?FNK.8Rk-p%L",
+                "size": 889151,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 3954347083,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:arknight_all_v2": "48209d197897"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:arknight_all_v2:1>,1girl,black_ribbon,blue_eyes,blue_jacket,blue_poison_\\(arknights\\),closed_mouth,collared_shirt,commentary_request,hair_between_eyes,hand_up,highres,hood_up,hooded_jacket,long_hair,long_sleeves,looking_at_viewer,low_twintails,neck_ribbon,open_jacket,pink_hair,simple_background,smile,solo,upper_body,white_background,white_shirt,",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "48209d197897",
+                        "name": "arknight_all_v2",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "mole_under_eye,logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/de786a35-dafc-4ebd-b73b-79d9436c3d28/width=450/14051871.jpeg",
+            "nsfwLevel": 2,
+            "width": 832,
+            "height": 1216,
+            "hash": "UWMQkpD%?v?b_Ns.-p%MIoRjIUNG-:kDR*f6",
+            "type": "image",
+            "metadata": {
+                "hash": "UWMQkpD%?v?b_Ns.-p%MIoRjIUNG-:kDR*f6",
+                "size": 775046,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 1974496802,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:arknight_all_v2": "48209d197897"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:arknight_all_v2:1>,1girl, absurdres, ahoge, bare_shoulders, black_hair, black_jacket, black_shirt, black_shorts, commentary_request, fur-trimmed_jacket, fur-trimmed_sleeves, grey_background, hair_between_eyes, hair_intakes, hairclip, highres, la_pluma_\\(arknights\\), long_hair, long_sleeves, looking_at_viewer, medium_breasts, off_shoulder, parted_lips, purple_eyes, short_shorts, simple_background, sleeveless_shirt, sleeves_past_fingers, solo",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "48209d197897",
+                        "name": "arknight_all_v2",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "mole_under_eye,logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f8764be7-86e2-4bbc-9245-da9fe30553ba/width=450/14052046.jpeg",
+            "nsfwLevel": 2,
+            "width": 832,
+            "height": 1216,
+            "hash": "UcLz]gRk_N%L~qt7%2t7xuWBIoRjIoofs:of",
+            "type": "image",
+            "metadata": {
+                "hash": "UcLz]gRk_N%L~qt7%2t7xuWBIoRjIoofs:of",
+                "size": 744251,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 2323023157,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:arknight_all_v2": "48209d197897"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:arknight_all_v2:1>,1girl, absurdres, ahoge, bare_shoulders, black_hair, black_jacket, black_shirt, black_shorts, commentary_request, fur-trimmed_jacket, fur-trimmed_sleeves, grey_background, hair_between_eyes, hair_intakes, hairclip, highres, la_pluma_\\(arknights\\), long_hair, long_sleeves, looking_at_viewer, medium_breasts, off_shoulder, parted_lips, purple_eyes, short_shorts, simple_background, sleeveless_shirt, sleeves_past_fingers, solo",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "48209d197897",
+                        "name": "arknight_all_v2",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "mole_under_eye,logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dd2522cc-8ad2-4f48-a250-2bf50438a76f/width=450/14052208.jpeg",
+            "nsfwLevel": 1,
+            "width": 832,
+            "height": 1216,
+            "hash": "UVI4R.~VIpNHs7V@9uM|9aadWXRjEQNboft7",
+            "type": "image",
+            "metadata": {
+                "hash": "UVI4R.~VIpNHs7V@9uM|9aadWXRjEQNboft7",
+                "size": 1086583,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 633070225,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:arknight_all_v2": "48209d197897"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:arknight_all_v2:1>,1girl, absurdres, black_gloves, black_ribbon, blemishine_\\(arknights\\), blonde_hair, blunt_bangs, breastplate, commentary, cowboy_shot, hair_ribbon, highres, horse_ears, horse_girl, long_hair, looking_at_viewer, orange_eyes, planted_sword, plate_armor, sidelocks, solo, standing, v-shaped_eyebrows, vambraces",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "48209d197897",
+                        "name": "arknight_all_v2",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "mole_under_eye,logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ffbd2009-58b0-4bf0-a258-d4d07fa962d8/width=450/14052435.jpeg",
+            "nsfwLevel": 4,
+            "width": 832,
+            "height": 1216,
+            "hash": "UbKx9s~q?bs8%#Os%gNG#maJo~M{tls,$%R+",
+            "type": "image",
+            "metadata": {
+                "hash": "UbKx9s~q?bs8%#Os%gNG#maJo~M{tls,$%R+",
+                "size": 1027989,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 3851674183,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:arknight_all_v2": "48209d197897"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:arknight_all_v2:1>,1girl, bare_shoulders, black_hair, blue_dress, china_dress, crossed_legs, dragon_girl, dragon_horns, dragon_tail, dusk_\\(arknights\\), dusk_\\(everything_is_a_miracle\\)_\\(arknights\\), feet_out_of_frame, from_side, highres, long_hair, looking_at_viewer, pelvic_curtain, pointy_ears, red_eyes, simple_background, sleeveless_dress, solo, thighs, white_background",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "48209d197897",
+                        "name": "arknight_all_v2",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "mole_under_eye,logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8b35c45f-48c7-4b1a-a22c-cc1e680acf31/width=450/14052919.jpeg",
+            "nsfwLevel": 4,
+            "width": 832,
+            "height": 1216,
+            "hash": "UrLqhMoz~qof_3ofxtWBj]jYV@s:t7R+ofa#",
+            "type": "image",
+            "metadata": {
+                "hash": "UrLqhMoz~qof_3ofxtWBj]jYV@s:t7R+ofa#",
+                "size": 784708,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 1980366031,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:arknight_all_v2": "48209d197897"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:arknight_all_v2:1>,1girl, absurdres, black_dress, black_headwear, chinese_commentary, cleavage_cutout, closed_mouth, commentary_request, cowboy_shot, frilled_dress, grey_hair, hand_on_own_chest, hand_on_own_hip, highres, leaning_forward, long_sleeves, looking_at_viewer, medium_breasts, pelvic_curtain, red_eyes, shoulder_strap, simple_background, solo, specter_\\(arknights\\), specter_the_unchained_\\(arknights\\), very_long_hair, white_background",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "48209d197897",
+                        "name": "arknight_all_v2",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "mole_under_eye,logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        }
+    ],
+    "downloadUrl": "https://civitai.com/api/download/models/536648"
+}

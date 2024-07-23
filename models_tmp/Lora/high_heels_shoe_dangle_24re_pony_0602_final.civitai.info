@@ -1,0 +1,559 @@
+{
+    "id": 544574,
+    "modelId": 489729,
+    "name": "v1.0",
+    "createdAt": "2024-06-01T22:35:30.161Z",
+    "updatedAt": "2024-06-02T10:21:01.506Z",
+    "status": "Published",
+    "publishedAt": "2024-06-01T22:49:14.896Z",
+    "trainedWords": [
+        "high heels shoe dangle"
+    ],
+    "trainingStatus": null,
+    "trainingDetails": null,
+    "baseModel": "Pony",
+    "baseModelType": null,
+    "earlyAccessTimeFrame": 0,
+    "description": null,
+    "air": "urn:air:pony:lora:civitai:489729@544574",
+    "stats": {
+        "downloadCount": 1113,
+        "ratingCount": 0,
+        "rating": 0,
+        "thumbsUpCount": 227
+    },
+    "model": {
+        "name": "(PonyXL concept) High Heels Shoe Dangle | \u60ac\u7740\u7684\u9ad8\u8ddf\u978b",
+        "type": "LORA",
+        "nsfw": false,
+        "poi": false
+    },
+    "files": [
+        {
+            "id": 460856,
+            "sizeKB": 133615.9609375,
+            "name": "high_heels_shoe_dangle_24re_pony_0602_final.safetensors",
+            "type": "Model",
+            "pickleScanResult": "Success",
+            "pickleScanMessage": "No Pickle imports",
+            "virusScanResult": "Success",
+            "virusScanMessage": null,
+            "scannedAt": "2024-06-01T22:39:22.714Z",
+            "metadata": {
+                "format": "SafeTensor",
+                "size": null,
+                "fp": null
+            },
+            "hashes": {
+                "AutoV1": "D8810986",
+                "AutoV2": "34C9E1A84A",
+                "SHA256": "34C9E1A84A28A3992641AB09CA2AA2DD244A183B91741293626FF4D45092602B",
+                "CRC32": "188BD067",
+                "BLAKE3": "2F69D9A7D54105D51D59EFE76FF86003D1AA2583F9381B7BF84539D9EDCD1613",
+                "AutoV3": "0EC0944B3767"
+            },
+            "primary": true,
+            "downloadUrl": "https://civitai.com/api/download/models/544574"
+        }
+    ],
+    "images": [
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/122830c3-d1d0-4848-b50a-2959f110ad8d/width=450/14290436.jpeg",
+            "nsfwLevel": 1,
+            "width": 1664,
+            "height": 2432,
+            "hash": "UaJ8eGTxM#oy_MR+MzJUotXm#=XlbIbcwKbb",
+            "type": "image",
+            "metadata": {
+                "hash": "UaJ8eGTxM#oy_MR+MzJUotXm#=XlbIbcwKbb",
+                "size": 4294040,
+                "width": 1664,
+                "height": 2432
+            },
+            "availability": "Public",
+            "meta": {
+                "VAE": "sdxl-vae-fp16-fix.safetensors",
+                "Size": "832x1216",
+                "seed": 4239127768,
+                "Model": "tPonynai3_v41OptimizedFromV4",
+                "steps": 25,
+                "hashes": {
+                    "vae": "235745af8d",
+                    "model": "0b3046dd73",
+                    "lora:high_heels_shoe_dangle_24re_pony_0602_final": "0ec0944b3767"
+                },
+                "prompt": "score_9_up score_8_up score_7_up, 1girl, high heels shoe dangle, legs up, hatsune miku, looking at viewer, sitting, from side\n<lora:high_heels_shoe_dangle_24re_pony_0602_final:1>",
+                "Version": "v1.7.0",
+                "sampler": "DPM++ 2M Karras",
+                "cfgScale": 7,
+                "resources": [
+                    {
+                        "hash": "0ec0944b3767",
+                        "name": "high_heels_shoe_dangle_24re_pony_0602_final",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "0b3046dd73",
+                        "name": "tPonynai3_v41OptimizedFromV4",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "0b3046dd73",
+                "Hires upscale": "2",
+                "Hires upscaler": "ESRGAN_4x",
+                "negativePrompt": "rating_explicit, greyscale, monochrome",
+                "Denoising strength": "0.45"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a64cad7d-b06a-4c79-990d-a87736b34249/width=450/14290427.jpeg",
+            "nsfwLevel": 1,
+            "width": 1664,
+            "height": 2432,
+            "hash": "UDF~HY9F00%4?]IBMdxbK5xHrWOAFgVtM{t*",
+            "type": "image",
+            "metadata": {
+                "hash": "UDF~HY9F00%4?]IBMdxbK5xHrWOAFgVtM{t*",
+                "size": 4662540,
+                "width": 1664,
+                "height": 2432
+            },
+            "availability": "Public",
+            "meta": {
+                "VAE": "sdxl-vae-fp16-fix.safetensors",
+                "Size": "832x1216",
+                "seed": 887209699,
+                "Model": "tPonynai3_v41OptimizedFromV4",
+                "steps": 25,
+                "hashes": {
+                    "vae": "235745af8d",
+                    "model": "0b3046dd73",
+                    "lora:high_heels_shoe_dangle_24re_pony_0602_final": "0ec0944b3767"
+                },
+                "prompt": "score_9_up score_8_up score_7_up, 1girl, high heels shoe dangle, sitting, from side, looking at viewer\n<lora:high_heels_shoe_dangle_24re_pony_0602_final:1>",
+                "Version": "v1.7.0",
+                "sampler": "DPM++ 2M Karras",
+                "cfgScale": 7,
+                "resources": [
+                    {
+                        "hash": "0ec0944b3767",
+                        "name": "high_heels_shoe_dangle_24re_pony_0602_final",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "0b3046dd73",
+                        "name": "tPonynai3_v41OptimizedFromV4",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "0b3046dd73",
+                "Hires upscale": "2",
+                "Hires upscaler": "ESRGAN_4x",
+                "negativePrompt": "rating_explicit, greyscale, monochrome",
+                "Denoising strength": "0.5"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/aabe5f65-40ed-4b02-9921-64658559f297/width=450/14290420.jpeg",
+            "nsfwLevel": 1,
+            "width": 1664,
+            "height": 2432,
+            "hash": "UKI}L.}rIBv~DQH?$*WB%#Ios:pID*oyS#R*",
+            "type": "image",
+            "metadata": {
+                "hash": "UKI}L.}rIBv~DQH?$*WB%#Ios:pID*oyS#R*",
+                "size": 5771899,
+                "width": 1664,
+                "height": 2432
+            },
+            "availability": "Public",
+            "meta": {
+                "VAE": "sdxl-vae-fp16-fix.safetensors",
+                "Size": "832x1216",
+                "seed": 3007841637,
+                "Model": "autismmixSDXL_autismmixConfetti",
+                "steps": 25,
+                "hashes": {
+                    "vae": "235745af8d",
+                    "model": "ac006fdd7e",
+                    "lora:high_heels_shoe_dangle_24re_pony_0602_final": "0ec0944b3767"
+                },
+                "prompt": "score_9_up score_8_up score_7_up, 1girl, high heels shoe dangle, sitting, hatsune miku\n<lora:high_heels_shoe_dangle_24re_pony_0602_final:1>",
+                "Version": "v1.7.0",
+                "sampler": "DPM++ 2M Karras",
+                "cfgScale": 7,
+                "resources": [
+                    {
+                        "hash": "0ec0944b3767",
+                        "name": "high_heels_shoe_dangle_24re_pony_0602_final",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "ac006fdd7e",
+                        "name": "autismmixSDXL_autismmixConfetti",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "ac006fdd7e",
+                "Hires upscale": "2",
+                "Hires upscaler": "ESRGAN_4x",
+                "negativePrompt": "greyscale, monochrome",
+                "Denoising strength": "0.5"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/be7331c6-4412-479e-9ebe-cc37bdf4fdf9/width=450/14290425.jpeg",
+            "nsfwLevel": 1,
+            "width": 1664,
+            "height": 2432,
+            "hash": "U9K18t01.m0Ms;0#kWH@015SxG^jIA%M_2xC",
+            "type": "image",
+            "metadata": {
+                "hash": "U9K18t01.m0Ms;0#kWH@015SxG^jIA%M_2xC",
+                "size": 5320691,
+                "width": 1664,
+                "height": 2432
+            },
+            "availability": "Public",
+            "meta": {
+                "VAE": "sdxl-vae-fp16-fix.safetensors",
+                "Size": "832x1216",
+                "seed": 2359960768,
+                "Model": "autismmixSDXL_autismmixConfetti",
+                "steps": 25,
+                "hashes": {
+                    "vae": "235745af8d",
+                    "model": "ac006fdd7e",
+                    "lora:high_heels_shoe_dangle_24re_pony_0602_final": "0ec0944b3767"
+                },
+                "prompt": "score_9_up score_8_up score_7_up, 1girl, high heels shoe dangle, makima \\(chainsaw man\\), sitting\n<lora:high_heels_shoe_dangle_24re_pony_0602_final:1>",
+                "Version": "v1.7.0",
+                "sampler": "DPM++ 2M Karras",
+                "cfgScale": 7,
+                "resources": [
+                    {
+                        "hash": "0ec0944b3767",
+                        "name": "high_heels_shoe_dangle_24re_pony_0602_final",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "ac006fdd7e",
+                        "name": "autismmixSDXL_autismmixConfetti",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "ac006fdd7e",
+                "Hires upscale": "2",
+                "Hires upscaler": "ESRGAN_4x",
+                "negativePrompt": "greyscale, monochrome",
+                "Denoising strength": "0.5"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/75a917a7-f665-4b32-a0e0-dbfa02b5d01e/width=450/14290451.jpeg",
+            "nsfwLevel": 1,
+            "width": 1664,
+            "height": 2432,
+            "hash": "UPG*+p~UNY-p~Vt5Ios;EMM|IWRk0fIVf8WA",
+            "type": "image",
+            "metadata": {
+                "hash": "UPG*+p~UNY-p~Vt5Ios;EMM|IWRk0fIVf8WA",
+                "size": 6626411,
+                "width": 1664,
+                "height": 2432
+            },
+            "availability": "Public",
+            "meta": {
+                "VAE": "sdxl-vae-fp16-fix.safetensors",
+                "Size": "832x1216",
+                "seed": 2492543843,
+                "Model": "autismmixSDXL_autismmixConfetti",
+                "steps": 25,
+                "hashes": {
+                    "vae": "235745af8d",
+                    "model": "ac006fdd7e",
+                    "lora:others_frieren_nereirfpnxl_pony_v2": "b62e218c436d",
+                    "lora:high_heels_shoe_dangle_24re_pony_0602_final": "0ec0944b3767"
+                },
+                "prompt": "score_9_up score_8_up score_7_up, 1girl, high heels shoe dangle, sitting, crossed legs, pantyhose\n<lora:high_heels_shoe_dangle_24re_pony_0602_final:1>\nBREAK\nnereirfpnxl, frieren, pointy ears, twintails, earrings, elf, parted bangs, white hair, white capelet, capelet, long sleeves\n<lora:others_frieren_nereirfpnxl_pony_v2:1>",
+                "Version": "v1.7.0",
+                "sampler": "DPM++ 2M Karras",
+                "cfgScale": 7,
+                "resources": [
+                    {
+                        "hash": "0ec0944b3767",
+                        "name": "high_heels_shoe_dangle_24re_pony_0602_final",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "b62e218c436d",
+                        "name": "others_frieren_nereirfpnxl_pony_v2",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "ac006fdd7e",
+                        "name": "autismmixSDXL_autismmixConfetti",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "ac006fdd7e",
+                "Hires upscale": "2",
+                "Hires upscaler": "ESRGAN_4x",
+                "negativePrompt": "rating_explicit, greyscale, monochrome",
+                "Denoising strength": "0.5"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/48229ef3-7df0-4c53-982f-3f767f22fe0f/width=450/14290421.jpeg",
+            "nsfwLevel": 1,
+            "width": 1664,
+            "height": 2432,
+            "hash": "UNINdg~WSKxVxv%L-ok8Ilact5k9aKn,fiof",
+            "type": "image",
+            "metadata": {
+                "hash": "UNINdg~WSKxVxv%L-ok8Ilact5k9aKn,fiof",
+                "size": 5269413,
+                "width": 1664,
+                "height": 2432
+            },
+            "availability": "Public",
+            "meta": {
+                "VAE": "sdxl-vae-fp16-fix.safetensors",
+                "Size": "832x1216",
+                "seed": 2304567287,
+                "Model": "autismmixSDXL_autismmixConfetti",
+                "steps": 25,
+                "hashes": {
+                    "vae": "235745af8d",
+                    "model": "ac006fdd7e",
+                    "lora:high_heels_shoe_dangle_24re_pony_0602_final": "0ec0944b3767"
+                },
+                "prompt": "score_9_up score_8_up score_7_up, 1girl, high heels shoe dangle, raiden shogun, on back, lying\n<lora:high_heels_shoe_dangle_24re_pony_0602_final:1>",
+                "Version": "v1.7.0",
+                "sampler": "DPM++ 2M Karras",
+                "cfgScale": 7,
+                "resources": [
+                    {
+                        "hash": "0ec0944b3767",
+                        "name": "high_heels_shoe_dangle_24re_pony_0602_final",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "ac006fdd7e",
+                        "name": "autismmixSDXL_autismmixConfetti",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "ac006fdd7e",
+                "Hires upscale": "2",
+                "Hires upscaler": "ESRGAN_4x",
+                "negativePrompt": "rating_explicit, greyscale, monochrome",
+                "Denoising strength": "0.5"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/670bcaec-5227-479b-999f-554ec0ebf2eb/width=450/14290419.jpeg",
+            "nsfwLevel": 4,
+            "width": 1664,
+            "height": 2432,
+            "hash": "U6Gka#7$05;h010L0g}pHC~A^4^h00xE-89u",
+            "type": "image",
+            "metadata": {
+                "hash": "U6Gka#7$05;h010L0g}pHC~A^4^h00xE-89u",
+                "size": 5531884,
+                "width": 1664,
+                "height": 2432
+            },
+            "availability": "Public",
+            "meta": {
+                "VAE": "sdxl-vae-fp16-fix.safetensors",
+                "Size": "832x1216",
+                "seed": 871521746,
+                "Model": "autismmixSDXL_autismmixConfetti",
+                "steps": 25,
+                "hashes": {
+                    "vae": "235745af8d",
+                    "model": "ac006fdd7e",
+                    "lora:high_heels_shoe_dangle_24re_pony_0602_final": "0ec0944b3767"
+                },
+                "prompt": "score_9_up score_8_up score_7_up, 1girl, high heels shoe dangle\n<lora:high_heels_shoe_dangle_24re_pony_0602_final:1>",
+                "Version": "v1.7.0",
+                "sampler": "DPM++ 2M Karras",
+                "cfgScale": 7,
+                "resources": [
+                    {
+                        "hash": "0ec0944b3767",
+                        "name": "high_heels_shoe_dangle_24re_pony_0602_final",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "ac006fdd7e",
+                        "name": "autismmixSDXL_autismmixConfetti",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "ac006fdd7e",
+                "Hires upscale": "2",
+                "Hires upscaler": "ESRGAN_4x",
+                "negativePrompt": "rating_explicit, greyscale, monochrome",
+                "Denoising strength": "0.5"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1e80ff21-b8a2-43c0-9782-c6c464f5c107/width=450/14290424.jpeg",
+            "nsfwLevel": 4,
+            "width": 1664,
+            "height": 2432,
+            "hash": "UKJ*C#~BIVXm~Ce.rER*0yRjrrs..S-:rrxt",
+            "type": "image",
+            "metadata": {
+                "hash": "UKJ*C#~BIVXm~Ce.rER*0yRjrrs..S-:rrxt",
+                "size": 5322364,
+                "width": 1664,
+                "height": 2432
+            },
+            "availability": "Public",
+            "meta": {
+                "VAE": "sdxl-vae-fp16-fix.safetensors",
+                "Size": "832x1216",
+                "seed": 3664035890,
+                "Model": "autismmixSDXL_autismmixConfetti",
+                "steps": 25,
+                "hashes": {
+                    "vae": "235745af8d",
+                    "model": "ac006fdd7e",
+                    "lora:high_heels_shoe_dangle_24re_pony_0602_final": "0ec0944b3767"
+                },
+                "prompt": "score_9_up score_8_up score_7_up, source_anime, 1girl, high heels shoe dangle, hatsune miku\n<lora:high_heels_shoe_dangle_24re_pony_0602_final:1>",
+                "Version": "v1.7.0",
+                "sampler": "DPM++ 2M Karras",
+                "cfgScale": 7,
+                "resources": [
+                    {
+                        "hash": "0ec0944b3767",
+                        "name": "high_heels_shoe_dangle_24re_pony_0602_final",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "ac006fdd7e",
+                        "name": "autismmixSDXL_autismmixConfetti",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "ac006fdd7e",
+                "Hires upscale": "2",
+                "Hires upscaler": "ESRGAN_4x",
+                "negativePrompt": "source_pony, source_furry, greyscale, monochrome",
+                "Denoising strength": "0.5"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6729d1b1-2cf6-4183-9cce-6069a4c08f10/width=450/14290426.jpeg",
+            "nsfwLevel": 2,
+            "width": 1664,
+            "height": 2432,
+            "hash": "UQH_Sq=_MdNx?]VsRPNdPBIVMxt79an4%1XS",
+            "type": "image",
+            "metadata": {
+                "hash": "UQH_Sq=_MdNx?]VsRPNdPBIVMxt79an4%1XS",
+                "size": 5452187,
+                "width": 1664,
+                "height": 2432
+            },
+            "availability": "Public",
+            "meta": {
+                "VAE": "sdxl-vae-fp16-fix.safetensors",
+                "Size": "832x1216",
+                "seed": 194880523,
+                "Model": "autismmixSDXL_autismmixConfetti",
+                "steps": 25,
+                "hashes": {
+                    "vae": "235745af8d",
+                    "model": "ac006fdd7e",
+                    "lora:high_heels_shoe_dangle_24re_pony_0602_final": "0ec0944b3767"
+                },
+                "prompt": "score_9_up score_8_up score_7_up, 1girl, high heels shoe dangle, sitting, crossed legs\n<lora:high_heels_shoe_dangle_24re_pony_0602_final:1>",
+                "Version": "v1.7.0",
+                "sampler": "DPM++ 2M Karras",
+                "cfgScale": 7,
+                "resources": [
+                    {
+                        "hash": "0ec0944b3767",
+                        "name": "high_heels_shoe_dangle_24re_pony_0602_final",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "ac006fdd7e",
+                        "name": "autismmixSDXL_autismmixConfetti",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "ac006fdd7e",
+                "Hires upscale": "2",
+                "Hires upscaler": "ESRGAN_4x",
+                "negativePrompt": "greyscale, monochrome",
+                "Denoising strength": "0.5"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cb9ce4f3-edb2-444c-9101-359a5de431d4/width=450/14290446.jpeg",
+            "nsfwLevel": 1,
+            "width": 1664,
+            "height": 2432,
+            "hash": "UHIO8]9H0L^%.m8|s*tR%hIT$%R:D+Int7xb",
+            "type": "image",
+            "metadata": {
+                "hash": "UHIO8]9H0L^%.m8|s*tR%hIT$%R:D+Int7xb",
+                "size": 4395415,
+                "width": 1664,
+                "height": 2432
+            },
+            "availability": "Public",
+            "meta": {
+                "VAE": "sdxl-vae-fp16-fix.safetensors",
+                "Size": "832x1216",
+                "seed": 11940320,
+                "Model": "tPonynai3_v41OptimizedFromV4",
+                "steps": 25,
+                "hashes": {
+                    "vae": "235745af8d",
+                    "model": "0b3046dd73",
+                    "lora:high_heels_shoe_dangle_24re_pony_0602_final": "0ec0944b3767"
+                },
+                "prompt": "score_9_up score_8_up score_7_up, 1girl, high heels shoe dangle, sitting, from side, looking at viewer\n<lora:high_heels_shoe_dangle_24re_pony_0602_final:1>",
+                "Version": "v1.7.0",
+                "sampler": "DPM++ 2M Karras",
+                "cfgScale": 7,
+                "resources": [
+                    {
+                        "hash": "0ec0944b3767",
+                        "name": "high_heels_shoe_dangle_24re_pony_0602_final",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "0b3046dd73",
+                        "name": "tPonynai3_v41OptimizedFromV4",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "0b3046dd73",
+                "Hires upscale": "2",
+                "Hires upscaler": "ESRGAN_4x",
+                "negativePrompt": "rating_explicit, greyscale, monochrome",
+                "Denoising strength": "0.45"
+            }
+        }
+    ],
+    "downloadUrl": "https://civitai.com/api/download/models/544574"
+}

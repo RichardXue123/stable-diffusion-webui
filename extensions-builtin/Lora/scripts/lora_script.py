@@ -61,7 +61,14 @@ def create_lora_json(obj: network.NetworkOnDisk):
 def api_networks(_: gr.Blocks, app: FastAPI):
     @app.get("/sdapi/v1/loras")
     async def get_loras():
-        return [create_lora_json(obj) for obj in networks.available_networks.values()]
+        # return [create_lora_json(obj) for obj in networks.available_networks.values()]
+        return [
+            {
+                'name': network_obj.name,
+                'alias': network_obj.alias,
+            }
+            for network_obj in networks.available_networks.values()
+        ]
 
     @app.post("/sdapi/v1/refresh-loras")
     async def refresh_loras():

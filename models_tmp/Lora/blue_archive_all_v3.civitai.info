@@ -1,0 +1,518 @@
+{
+    "id": 508450,
+    "modelId": 396156,
+    "name": "v3",
+    "createdAt": "2024-05-15T17:04:11.603Z",
+    "updatedAt": "2024-05-15T21:41:37.483Z",
+    "status": "Published",
+    "publishedAt": "2024-05-15T21:41:37.479Z",
+    "trainedWords": [
+        "airi_\\(band\\)_\\(blue_archive\\)",
+        "erika_\\(blue_archive\\)",
+        "hikari_\\(blue_archive\\)",
+        "kazusa_\\(band\\)_\\(blue_archive\\),",
+        "kirara_\\(blue_archive\\)",
+        "natsu_\\(band\\)_\\(blue_archive\\),",
+        "nozomi_\\(blue_archive\\)",
+        "yoshimi_\\(blue_archive\\)",
+        "all in one"
+    ],
+    "trainingStatus": null,
+    "trainingDetails": null,
+    "baseModel": "Pony",
+    "baseModelType": null,
+    "earlyAccessTimeFrame": 0,
+    "description": null,
+    "air": "urn:air:pony:lora:civitai:396156@508450",
+    "stats": {
+        "downloadCount": 2644,
+        "ratingCount": 0,
+        "rating": 0,
+        "thumbsUpCount": 370
+    },
+    "model": {
+        "name": "\uff08Pony\uff09All characters Blue Archive ( 200 characters) \u78a7\u84dd\u6863\u6848\u5168\u89d2\u8272 200 \u4f4d",
+        "type": "LORA",
+        "nsfw": false,
+        "poi": false
+    },
+    "files": [
+        {
+            "id": 425929,
+            "sizeKB": 225512.06640625,
+            "name": "blue_archive_all_v3.safetensors",
+            "type": "Model",
+            "pickleScanResult": "Success",
+            "pickleScanMessage": "No Pickle imports",
+            "virusScanResult": "Success",
+            "virusScanMessage": null,
+            "scannedAt": "2024-05-15T17:10:56.392Z",
+            "metadata": {
+                "format": "SafeTensor",
+                "size": null,
+                "fp": null
+            },
+            "hashes": {
+                "AutoV1": "F9FD6D4E",
+                "AutoV2": "89F2AAD267",
+                "SHA256": "89F2AAD267F28700EA4685C71874D6C8D1B8D9D53748709DAB4A68D92AB43809",
+                "CRC32": "B8B59B74",
+                "BLAKE3": "A177A4B3A161A43BEF084621EE4ABE52254E19EED3AABD9CBEE4C077E8DE0D73",
+                "AutoV3": "EC67B1ACE80E"
+            },
+            "primary": true,
+            "downloadUrl": "https://civitai.com/api/download/models/508450"
+        }
+    ],
+    "images": [
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a87e76b2-25cb-46fb-9d2a-133bae6bba97/width=450/12577329.jpeg",
+            "nsfwLevel": 2,
+            "width": 1461,
+            "height": 2173,
+            "hash": "UCL4c~=|V@?H~pxtNKRjIU%1SiWDn-n+ozR%",
+            "type": "image",
+            "metadata": {
+                "hash": "UCL4c~=|V@?H~pxtNKRjIU%1SiWDn-n+ozR%",
+                "size": 3910496,
+                "width": 1461,
+                "height": 2173
+            },
+            "availability": "Public",
+            "meta": null
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7772f1ac-a4b1-4b36-8c15-a36f3e651f24/width=450/12564053.jpeg",
+            "nsfwLevel": 1,
+            "width": 832,
+            "height": 1216,
+            "hash": "UMJHgwIUtR?b~X-:x]?HD*%M-:s:xuxtxaae",
+            "type": "image",
+            "metadata": {
+                "hash": "UMJHgwIUtR?b~X-:x]?HD*%M-:s:xuxtxaae",
+                "size": 1127924,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 2157809058,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:blue_archive_all_v3": "ec67b1ace80e"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:blue_archive_all_v3:1>,medium_breasts,kazusa_\\(blue_archive\\),:q,t-shirt,hairclip,white_shirt,kazusa_\\(band\\)_\\(blue_archive\\),solo,black_choker,short_sleeves,collarbone,bracelet,1girl,heart_hands,white_skirt,looking_at_viewer,",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "ec67b1ace80e",
+                        "name": "blue_archive_all_v3",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/08626b8b-cd6c-4f7d-b865-c8b687183e05/width=450/12568575.jpeg",
+            "nsfwLevel": 1,
+            "width": 832,
+            "height": 1216,
+            "hash": "UZNT,s%L_NkX^*IA-;%MozSNM|t7S~ozt7af",
+            "type": "image",
+            "metadata": {
+                "hash": "UZNT,s%L_NkX^*IA-;%MozSNM|t7S~ozt7af",
+                "size": 813240,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 3420678610,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:blue_archive_all_v3": "ec67b1ace80e"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:blue_archive_all_v3:1>,white_skirt,looking_at_viewer,pleated_skirt,simple_background,highres,white_background,airi_\\(band\\)_\\(blue_archive\\),absurdres,1girl,blue_coat,doyagao,airi_\\(blue_archive\\),solo,white_shirt,logo,print_shirt,smile,",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "ec67b1ace80e",
+                        "name": "blue_archive_all_v3",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/362417fe-464c-49d4-996c-30c0dc320b4c/width=450/12568655.jpeg",
+            "nsfwLevel": 1,
+            "width": 832,
+            "height": 1216,
+            "hash": "UEI5lW%#IrE40Mx]t9-pcujX={Mx%NIU8_M|",
+            "type": "image",
+            "metadata": {
+                "hash": "UEI5lW%#IrE40Mx]t9-pcujX={Mx%NIU8_M|",
+                "size": 1059014,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 3733817997,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:blue_archive_all_v3": "ec67b1ace80e"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:blue_archive_all_v3:1>,1girl, :d, aris_\\(blue_archive\\), black_hairband, blue_eyes, blue_necktie, blush, collared_shirt, cursor, hair_between_eyes, halo, hands_up, heart, long_hair, one_side_up, open_jacket, pixelated, plaid_background, puffy_long_sleeves, sleeves_past_wrists, solo, upper_body, white_shirt",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "ec67b1ace80e",
+                        "name": "blue_archive_all_v3",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/20232a21-db6e-47ae-a527-b037af288c73/width=450/12568749.jpeg",
+            "nsfwLevel": 1,
+            "width": 832,
+            "height": 1216,
+            "hash": "UPO3Ok-;=~%2}qV_Iv-WK%t7xat7O?R%w[Rj",
+            "type": "image",
+            "metadata": {
+                "hash": "UPO3Ok-;=~%2}qV_Iv-WK%t7xat7O?R%w[Rj",
+                "size": 1236986,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 1583603085,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:blue_archive_all_v3": "ec67b1ace80e"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:blue_archive_all_v3:1>,1girl, :<, animal_ear_headphones, bandaid, blonde_hair, blue_bow, blue_necktie, blush, closed_mouth, collarbone, collared_shirt, cursor, drawn_whiskers, dress_shirt, green_eyes, hair_bow, halo, heart, hood_down, hooded_jacket, looking_at_viewer, midori_\\(blue_archive\\), off_shoulder, open_jacket, pixelated, plaid_background, solo, suspenders, upper_body, white_jacket, white_shirt",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "ec67b1ace80e",
+                        "name": "blue_archive_all_v3",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b5cd2c0a-c68c-4b11-b71d-2c55a013fcf8/width=450/12568702.jpeg",
+            "nsfwLevel": 1,
+            "width": 832,
+            "height": 1216,
+            "hash": "UWN0#c%gNI-;~BWV%hozxuxuIVt79uWBw^Rj",
+            "type": "image",
+            "metadata": {
+                "hash": "UWN0#c%gNI-;~BWV%hozxuxuIVt79uWBw^Rj",
+                "size": 872287,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 412649593,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:blue_archive_all_v3": "ec67b1ace80e"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:blue_archive_all_v3:1>,1girl, momoi_\\(blue_archive\\), maid_headdress, solo, official_alternate_costume, momoi_\\(maid\\)_\\(blue_archive\\), highres, looking_at_viewer, white_background, :d, open_mouth, cat_ear_headphones, pink_halo, simple_background",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "ec67b1ace80e",
+                        "name": "blue_archive_all_v3",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ca5f9cb3-2a2d-4903-a942-d1304561c3cf/width=450/12568768.jpeg",
+            "nsfwLevel": 1,
+            "width": 832,
+            "height": 1216,
+            "hash": "UTJ[VDM{_Mbr_2D*t7kC9HoL-pjcx0RjxuM|",
+            "type": "image",
+            "metadata": {
+                "hash": "UTJ[VDM{_Mbr_2D*t7kC9HoL-pjcx0RjxuM|",
+                "size": 935027,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 2356523027,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:blue_archive_all_v3": "ec67b1ace80e"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:blue_archive_all_v3:1>,1girl, :d, animated, blue_armband, blue_hat, blue_jacket, chibi, double-breasted, green_hair, green_halo, hand_up, heart, long_hair, looking_at_viewer, lowres, nozomi_\\(blue_archive\\), peaked_cap, simple_background, skin_fang, solo, symbol-only_commentary, twintails, upper_body, video, white_background, white_gloves, yellow_eyes",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "ec67b1ace80e",
+                        "name": "blue_archive_all_v3",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4e4786fe-3807-4849-8907-6c5019588a2f/width=450/12568776.jpeg",
+            "nsfwLevel": 1,
+            "width": 832,
+            "height": 1216,
+            "hash": "USJ8R.Ipk8RkIBS2i{X94o%L%KRj~W%KIVni",
+            "type": "image",
+            "metadata": {
+                "hash": "USJ8R.Ipk8RkIBS2i{X94o%L%KRj~W%KIVni",
+                "size": 833299,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 596340927,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:blue_archive_all_v3": "ec67b1ace80e"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:blue_archive_all_v3:1>,1girl, >o<, animated, blue_armband, blush_stickers, chibi, closed_eyes, commentary, disembodied_limb, green_hair, green_halo, hands_on_another's_cheeks, hat, hikari_\\(blue_archive\\), jacket, long_hair, no_nose, patting_cheek, pointy_ears, sensei_\\(blue_archive\\), sidelocks, skin_fang, sound, v-shaped_eyebrows, video",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "ec67b1ace80e",
+                        "name": "blue_archive_all_v3",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bba094c0-a7f5-4de3-94ac-7784d41a69f9/width=450/12577202.jpeg",
+            "nsfwLevel": 2,
+            "width": 832,
+            "height": 1216,
+            "hash": "UpMj:dRk~q-;xtWBWCof%NoeWBofRkoet7oM",
+            "type": "image",
+            "metadata": {
+                "hash": "UpMj:dRk~q-;xtWBWCof%NoeWBofRkoet7oM",
+                "size": 766431,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 1354377937,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:blue_archive_all_v3": "ec67b1ace80e"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:blue_archive_all_v3:1>,1girl, absurdres, black_belt, black_hat, black_jacket, black_skirt, blush, brown_eyes, closed_mouth, cowboy_shot, green_hair, green_halo, highres, hikari_\\(blue_archive\\), long_hair, long_sleeves, looking_at_viewer, peaked_cap, pleated_skirt, pointy_ears, simple_background, solo, white_background, white_gloves, white_pantyhose",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "ec67b1ace80e",
+                        "name": "blue_archive_all_v3",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7ce61ec0-e68a-40d1-8e20-a021644a7448/width=450/12568833.jpeg",
+            "nsfwLevel": 2,
+            "width": 832,
+            "height": 1216,
+            "hash": "UUKK[{IV~qxttP4nMyX4ozD*n$RiIVt7%2t7",
+            "type": "image",
+            "metadata": {
+                "hash": "UUKK[{IV~qxttP4nMyX4ozD*n$RiIVt7%2t7",
+                "size": 944199,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 2379364313,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:blue_archive_all_v3": "ec67b1ace80e"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:blue_archive_all_v3:1>,1girl, absurdres, black_hat, black_shirt, black_shorts, black_tail, blush, cowboy_shot, demon_tail, fang, green_hair, green_halo, highres, long_hair, long_sleeves, navel, nozomi_\\(blue_archive\\), open_mouth, peaked_cap, pointy_ears, simple_background, smile, solo, twintails, white_background, white_gloves, white_pantyhose, yellow_eyes",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "ec67b1ace80e",
+                        "name": "blue_archive_all_v3",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        }
+    ],
+    "downloadUrl": "https://civitai.com/api/download/models/508450"
+}

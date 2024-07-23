@@ -1,0 +1,541 @@
+{
+    "id": 470400,
+    "modelId": 422180,
+    "name": "v0.9",
+    "createdAt": "2024-04-27T03:35:58.706Z",
+    "updatedAt": "2024-04-27T04:52:33.212Z",
+    "status": "Published",
+    "publishedAt": "2024-04-27T04:52:33.212Z",
+    "trainedWords": [
+        "all in one"
+    ],
+    "trainingStatus": null,
+    "trainingDetails": null,
+    "baseModel": "Pony",
+    "baseModelType": null,
+    "earlyAccessTimeFrame": 0,
+    "description": null,
+    "air": "urn:air:pony:lora:civitai:422180@470400",
+    "stats": {
+        "downloadCount": 1235,
+        "ratingCount": 0,
+        "rating": 0,
+        "thumbsUpCount": 212
+    },
+    "model": {
+        "name": "All characters League of Legends \uff0850+ Character)  \u82f1\u96c4\u8054\u76df\u5168\u89d2\u8272",
+        "type": "LORA",
+        "nsfw": false,
+        "poi": false
+    },
+    "files": [
+        {
+            "id": 389046,
+            "sizeKB": 223360.30859375,
+            "name": "league_of_legends_pony.safetensors",
+            "type": "Model",
+            "pickleScanResult": "Success",
+            "pickleScanMessage": "No Pickle imports",
+            "virusScanResult": "Success",
+            "virusScanMessage": null,
+            "scannedAt": "2024-04-27T03:41:03.316Z",
+            "metadata": {
+                "format": "SafeTensor",
+                "size": null,
+                "fp": null
+            },
+            "hashes": {
+                "AutoV1": "E0F10AC7",
+                "AutoV2": "3384ACE89E",
+                "SHA256": "3384ACE89E7EEEE03E5CB8E5DF5AECF95C821206CD76FC01374E52C09A8BED5D",
+                "CRC32": "2D57E9D1",
+                "BLAKE3": "7600F23E0CCDC9F1B6B7D47E84E284783CBE3A22D13CD346EF186B3A9A1A6A4A",
+                "AutoV3": "FFA31669AAFF"
+            },
+            "primary": true,
+            "downloadUrl": "https://civitai.com/api/download/models/470400"
+        }
+    ],
+    "images": [
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/21377129-ffc4-46bd-90dd-8919bc477b6c/width=450/10864251.jpeg",
+            "nsfwLevel": 2,
+            "width": 832,
+            "height": 1216,
+            "hash": "UTKm|doz_N-;tmxu?bog-pRjMdR*M|WBnhkC",
+            "type": "image",
+            "metadata": {
+                "hash": "UTKm|doz_N-;tmxu?bog-pRjMdR*M|WBnhkC",
+                "size": 1022591,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 2547276299,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:league_of_legends_pony": "ffa31669aaff"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:league_of_legends_pony:1>,1girl, ahri_\\(league_of_legends\\), fox_girl, solo, upper_body, fangs, black_hair, large_breasts, cleavage_cutout, official_alternate_costume, absurdres, highres, :d, ^_^, artist_name, bare_shoulders, cowlick, fox_ears, simple_background, whisker_markings, white_background",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "ffa31669aaff",
+                        "name": "league_of_legends_pony",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "mole_under_eye,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/17b5bbff-5a35-44cc-b749-9036ffbb56da/width=450/10867401.jpeg",
+            "nsfwLevel": 1,
+            "width": 832,
+            "height": 1216,
+            "hash": "UTK-qVRP_NxZOtMyD$tRS$Riacx]tSRiaLRP",
+            "type": "image",
+            "metadata": {
+                "hash": "UTK-qVRP_NxZOtMyD$tRS$Riacx]tSRiaLRP",
+                "size": 1107683,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 3546415861,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:league_of_legends_pony": "ffa31669aaff"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:league_of_legends_pony:1>,fingerless_gloves, cloud_tattoo, closed_mouth, 1girl, absurdres, highres, solo, arm_tattoo, brown_gloves, holding_gun, jinx_\\(league_of_legends\\), twin_braids, smile, gradient_background, brown_shirt, bare_shoulders, hand_up, crop_top",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "ffa31669aaff",
+                        "name": "league_of_legends_pony",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "mole_under_eye,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8228d7fb-a36f-4755-a02e-f17ef58177dc/width=450/10866093.jpeg",
+            "nsfwLevel": 2,
+            "width": 832,
+            "height": 1216,
+            "hash": "UgLN.8xux]e.yEt7M{X9E2s:i^xa~Vxubct7",
+            "type": "image",
+            "metadata": {
+                "hash": "UgLN.8xux]e.yEt7M{X9E2s:i^xa~Vxubct7",
+                "size": 976623,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 3416868231,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:league_of_legends_pony": "ffa31669aaff"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:league_of_legends_pony:1>,1girl, sona_\\(league_of_legends\\), solo, smile, blue_hair, long_hair, twintails, large_breasts, cleavage, bad_id, bad_pixiv_id, bare_shoulders, hair_over_one_eye, harp, yellow_eyes",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "ffa31669aaff",
+                        "name": "league_of_legends_pony",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "mole_under_eye,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d485a159-932a-46c1-9bef-38594ba9363e/width=450/10867511.jpeg",
+            "nsfwLevel": 2,
+            "width": 832,
+            "height": 1216,
+            "hash": "UyMa6OjE_Nt8s;RjjZRka0M{t7ofRPn%M|oz",
+            "type": "image",
+            "metadata": {
+                "hash": "UyMa6OjE_Nt8s;RjjZRka0M{t7ofRPn%M|oz",
+                "size": 849374,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 812776053,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:league_of_legends_pony": "ffa31669aaff"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:league_of_legends_pony:1>,midriff, cleavage, stomach, bracelet, single_glove, 1girl, solo, k/da_\\(league_of_legends\\), grey_belt, necklace, black_gloves, open_jacket, small_breasts, fingerless_gloves, black_choker, crop_top, mouth_mask, k/da_akali, simple_background, black_pants, white_background, cropped_jacket, hand_on_own_hip, navel",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "ffa31669aaff",
+                        "name": "league_of_legends_pony",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "mole_under_eye,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/aeed573a-758a-41ee-8996-2210793634f3/width=450/10864107.jpeg",
+            "nsfwLevel": 1,
+            "width": 832,
+            "height": 1216,
+            "hash": "UcKnuWt7xut7?vt7R5j[~pog?Gt7.8aybIs:",
+            "type": "image",
+            "metadata": {
+                "hash": "UcKnuWt7xut7?vt7R5j[~pog?Gt7.8aybIs:",
+                "size": 1085021,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 2222395351,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:league_of_legends_pony": "ffa31669aaff"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:league_of_legends_pony:1>,1girl, solo, portrait, blush, fangs, green_hair, :d, bare_shoulders, black_bow, black_gloves, detached_sleeves, gwen_\\(league_of_legends\\), hair_bow, heart-shaped_pupils, heart_in_heart_hands, puffy_short_sleeves, swept_bangs, twin_drills, upper_teeth_only",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "ffa31669aaff",
+                        "name": "league_of_legends_pony",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "mole_under_eye,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/429dd19a-b469-4aef-833f-e28b96686758/width=450/10866455.jpeg",
+            "nsfwLevel": 2,
+            "width": 832,
+            "height": 1216,
+            "hash": "UNJ82]%L1uRQ~ptQS#VtE1w|sCNGx[s:MykB",
+            "type": "image",
+            "metadata": {
+                "hash": "UNJ82]%L1uRQ~ptQS#VtE1w|sCNGx[s:MykB",
+                "size": 1095746,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 3197281704,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:league_of_legends_pony": "ffa31669aaff"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:league_of_legends_pony:1>,1girl, monster_girl, solo, long_hair, red_hair, large_breasts, cleavage, navel, vines, bad_id, bad_pixiv_id, bare_shoulders, extra_ears, glowing_eyes, leaf, orange_eyes, thorns, zyra",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "ffa31669aaff",
+                        "name": "league_of_legends_pony",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "mole_under_eye,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b4b140cc-907c-496c-b399-c7c18823683c/width=450/10866839.jpeg",
+            "nsfwLevel": 1,
+            "width": 832,
+            "height": 1216,
+            "hash": "UUH.f;T{YP$j_No}TJrrK5m,s:R5X9oJniXT",
+            "type": "image",
+            "metadata": {
+                "hash": "UUH.f;T{YP$j_No}TJrrK5m,s:R5X9oJniXT",
+                "size": 944545,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 3186820298,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:league_of_legends_pony": "ffa31669aaff"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:league_of_legends_pony:1>,1girl, vi_\\(league_of_legends\\), solo, lips, goggles, pink_hair, short_hair, medium_breasts, cleavage, armor, jacket, collar, english_commentary, gauntlets, hair_over_one_eye, red_eyes",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "resources": [
+                    {
+                        "hash": "ffa31669aaff",
+                        "name": "league_of_legends_pony",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "mole_under_eye,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/067a5b22-d5f1-45ff-957d-d68373996727/width=450/10867407.jpeg",
+            "nsfwLevel": 1,
+            "width": 832,
+            "height": 1216,
+            "hash": "UTNn2P~q~qD%-;xusAIoXSxaR5X8krMyt7S5",
+            "type": "image",
+            "metadata": {
+                "hash": "UTNn2P~q~qD%-;xusAIoXSxaR5X8krMyt7S5",
+                "size": 875109,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 1123304572,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:league_of_legends_pony": "ffa31669aaff"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:league_of_legends_pony:1>,1girl,solo,smile,drill_hair,green_hair,long_hair,short_hair,hair_ornament,medium_breasts,gloves,absurdres,highres,bare_shoulders,blue_flower,double_bun,flower_over_eye,green_eyes,gwen_\\(league_of_legends\\),hair_ribbon,prestige_crystal_rose_gwen,white_dress,",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "ffa31669aaff",
+                        "name": "league_of_legends_pony",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "mole_under_eye,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6cd16349-1802-480d-b684-9878349e64c2/width=450/10867705.jpeg",
+            "nsfwLevel": 1,
+            "width": 832,
+            "height": 1216,
+            "hash": "UhL}BDV[~q-:_3ofs;bHxuWBRPa#%2kCRjoL",
+            "type": "image",
+            "metadata": {
+                "hash": "UhL}BDV[~q-:_3ofs;bHxuWBRPa#%2kCRjoL",
+                "size": 1050051,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 2404604661,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:league_of_legends_pony": "ffa31669aaff"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:league_of_legends_pony:1>,1girl, animal_ears, artist_name, closed_mouth, cowboy_shot, detached_sleeves, expressionless, gem, green_brooch, green_eyes, green_hair, hair_between_eyes, highres, looking_at_viewer, official_alternate_costume, official_alternate_hairstyle, sidelocks, simple_background, single_horn, solo, soraka_\\(league_of_legends\\), star_guardian_\\(league_of_legends\\), star_guardian_pet, star_guardian_soraka, white_background",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "ffa31669aaff",
+                        "name": "league_of_legends_pony",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "mole_under_eye,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/38240f5c-6c7c-49b4-b12e-11425814680e/width=450/10865120.jpeg",
+            "nsfwLevel": 4,
+            "width": 832,
+            "height": 1216,
+            "hash": "UxMt5Rx]_NkC%Mj[kDjZxuRPR*ofkWofs:ay",
+            "type": "image",
+            "metadata": {
+                "hash": "UxMt5Rx]_NkC%Mj[kDjZxuRPR*ofkWofs:ay",
+                "size": 904662,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 1522107246,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:league_of_legends_pony": "ffa31669aaff"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:league_of_legends_pony:1>,1girl, solo, long_hair, red_hair, large_breasts, cleavage, hat, jacket, thighhighs, gun, blue_eyes, character_name, commentary_request, crime_city_miss_fortune, miss_fortune_\\(league_of_legends\\), mouth_hold, pencil_skirt, photoshop_\\(medium\\), pinstripe_suit, skirt_suit",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "ffa31669aaff",
+                        "name": "league_of_legends_pony",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "mole_under_eye,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        }
+    ],
+    "downloadUrl": "https://civitai.com/api/download/models/470400"
+}

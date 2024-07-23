@@ -1,0 +1,224 @@
+{
+    "id": 382152,
+    "modelId": 341353,
+    "name": "ExpressiveH",
+    "createdAt": "2024-03-09T03:51:24.764Z",
+    "updatedAt": "2024-05-24T23:55:42.366Z",
+    "status": "Published",
+    "publishedAt": "2024-03-09T05:19:56.830Z",
+    "trainedWords": [
+        "Expressiveh"
+    ],
+    "trainingStatus": "Approved",
+    "trainingDetails": {
+        "type": "Style",
+        "params": {
+            "unetLR": 0.0005,
+            "clipSkip": 1,
+            "loraType": "lora",
+            "keepTokens": 0,
+            "networkDim": 32,
+            "numRepeats": 1,
+            "resolution": 1024,
+            "lrScheduler": "cosine",
+            "minSnrGamma": 0,
+            "noiseOffset": 0.03,
+            "targetSteps": 664,
+            "enableBucket": true,
+            "networkAlpha": 32,
+            "optimizerType": "Prodigy",
+            "textEncoderLR": 5e-05,
+            "maxTrainEpochs": 10,
+            "shuffleCaption": false,
+            "trainBatchSize": 5,
+            "flipAugmentation": false,
+            "lrSchedulerNumCycles": 3
+        },
+        "baseModel": "pony",
+        "samplePrompts": [
+            "Expressiveh, 1 girl",
+            "Expressiveh, 1girl, huge breast",
+            "Expressiveh, 1girl, paizuri, breast squeeze"
+        ]
+    },
+    "baseModel": "Pony",
+    "baseModelType": null,
+    "earlyAccessTimeFrame": 0,
+    "description": null,
+    "air": "urn:air:pony:lora:civitai:341353@382152",
+    "stats": {
+        "downloadCount": 72570,
+        "ratingCount": 0,
+        "rating": 0,
+        "thumbsUpCount": 11328
+    },
+    "model": {
+        "name": "ExpressiveH (Hentai LoRa Style) \u30a8\u30ed\u30a2\u30cb\u30e1",
+        "type": "LORA",
+        "nsfw": true,
+        "poi": false
+    },
+    "files": [
+        {
+            "id": 306579,
+            "sizeKB": 38191.337890625,
+            "name": "382152_training_data.zip",
+            "type": "Training Data",
+            "pickleScanResult": "Success",
+            "pickleScanMessage": "No Pickle imports",
+            "virusScanResult": "Success",
+            "virusScanMessage": null,
+            "scannedAt": "2024-03-09T03:55:53.458Z",
+            "metadata": {
+                "format": "Other"
+            },
+            "hashes": {
+                "AutoV1": "CD0F095E",
+                "AutoV2": "6C8F147EB8",
+                "SHA256": "6C8F147EB83E4AD76DBA1EF8B0F810293ECF48BAA1F588F5FD79BCE10E9F7858",
+                "CRC32": "3A500C91",
+                "BLAKE3": "BC64B4EB0062DD34F2BD38C39E704FC4D13800120203F35103760FC05B9BE8D3"
+            },
+            "primary": false,
+            "downloadUrl": "https://civitai.com/api/download/models/382152?type=Training%20Data"
+        },
+        {
+            "id": 306661,
+            "sizeKB": 223099.50390625,
+            "name": "Expressive_H-000001.safetensors",
+            "type": "Model",
+            "pickleScanResult": "Success",
+            "pickleScanMessage": "No Pickle imports",
+            "virusScanResult": "Success",
+            "virusScanMessage": null,
+            "scannedAt": "2024-03-09T05:16:22.141Z",
+            "metadata": {
+                "format": "SafeTensor"
+            },
+            "hashes": {
+                "AutoV1": "031FF4D4",
+                "AutoV2": "7B53DA0391",
+                "SHA256": "7B53DA0391712DBE9412D5AA5FD074659413058773F72F41BD7A37E886031D43",
+                "CRC32": "2F2305A7",
+                "BLAKE3": "AF7BAD0EC86D941278225FF683D11FAC9063B664430B3F0B85D7370A8DDD86F3",
+                "AutoV3": "5671F20A9A6B"
+            },
+            "primary": true,
+            "downloadUrl": "https://civitai.com/api/download/models/382152"
+        }
+    ],
+    "images": [
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/feeca0e9-029b-4c2d-b5b5-4764d621a3aa/width=450/7662228.jpeg",
+            "nsfwLevel": 16,
+            "width": 832,
+            "height": 1216,
+            "hash": "UHL3ik~q%}S6GdIpInD*5tIUng%N9#%1IAE2",
+            "type": "image",
+            "metadata": {
+                "hash": "UHL3ik~q%}S6GdIpInD*5tIUng%N9#%1IAE2",
+                "size": 137469,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 706259682,
+                "steps": 50,
+                "prompt": "1 girl, moaning, huge breasts, breast movement,score_9, score_8_up, score_7_up, 1girl, source_anime, huge dick, reverse congress, expressive, anime, cartoon, hearts, speedlines, dynamic, semen, ejaculation, expressiveh, blue hair",
+                "sampler": "DPM2 a",
+                "cfgScale": 10,
+                "clipSkip": 2,
+                "resources": [],
+                "negativePrompt": "score_6, score_5, score_4, pubic hair, pony, gaping, muscular, makeup, censored, furry, young, childish, blue penis, green penis, black hair, monochrome",
+                "civitaiResources": [
+                    {
+                        "type": "checkpoint",
+                        "modelVersionId": 290640
+                    },
+                    {
+                        "type": "lora",
+                        "weight": 1.75,
+                        "modelVersionId": 382152
+                    }
+                ]
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/aad6f21f-f891-48dd-b811-b0ec7433426d/width=450/7662227.jpeg",
+            "nsfwLevel": 16,
+            "width": 832,
+            "height": 1216,
+            "hash": "USMY{LNGE2Rk*0adM_W=Oaxt%1kC0fIooeof",
+            "type": "image",
+            "metadata": {
+                "hash": "USMY{LNGE2Rk*0adM_W=Oaxt%1kC0fIooeof",
+                "size": 127462,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 706259684,
+                "steps": 50,
+                "prompt": "1 girl, moaning, huge breasts, breast movement,score_9, score_8_up, score_7_up, 1girl, source_anime, huge dick, reverse congress, expressive, anime, cartoon, hearts, speedlines, dynamic, semen, ejaculation, expressiveh, blue hair",
+                "sampler": "DPM2 a",
+                "cfgScale": 10,
+                "clipSkip": 2,
+                "resources": [],
+                "negativePrompt": "score_6, score_5, score_4, pubic hair, pony, gaping, muscular, makeup, censored, furry, young, childish, blue penis, green penis, black hair, monochrome",
+                "civitaiResources": [
+                    {
+                        "type": "checkpoint",
+                        "modelVersionId": 290640
+                    },
+                    {
+                        "type": "lora",
+                        "weight": 1.75,
+                        "modelVersionId": 382152
+                    }
+                ]
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/04e7338a-a920-4ba9-90d2-f2115519ba33/width=450/7662226.jpeg",
+            "nsfwLevel": 16,
+            "width": 832,
+            "height": 1216,
+            "hash": "UUMZLBIU57kDT#o0%0ozE2R--Pn~?Hj]rpxC",
+            "type": "image",
+            "metadata": {
+                "hash": "UUMZLBIU57kDT#o0%0ozE2R--Pn~?Hj]rpxC",
+                "size": 140937,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 706259685,
+                "steps": 50,
+                "prompt": "1 girl, moaning, huge breasts, breast movement,score_9, score_8_up, score_7_up, 1girl, source_anime, huge dick, reverse congress, expressive, anime, cartoon, hearts, speedlines, dynamic, semen, ejaculation, expressiveh, blue hair",
+                "sampler": "DPM2 a",
+                "cfgScale": 10,
+                "clipSkip": 2,
+                "resources": [],
+                "negativePrompt": "score_6, score_5, score_4, pubic hair, pony, gaping, muscular, makeup, censored, furry, young, childish, blue penis, green penis, black hair, monochrome",
+                "civitaiResources": [
+                    {
+                        "type": "checkpoint",
+                        "modelVersionId": 290640
+                    },
+                    {
+                        "type": "lora",
+                        "weight": 1.75,
+                        "modelVersionId": 382152
+                    }
+                ]
+            }
+        }
+    ],
+    "downloadUrl": "https://civitai.com/api/download/models/382152"
+}

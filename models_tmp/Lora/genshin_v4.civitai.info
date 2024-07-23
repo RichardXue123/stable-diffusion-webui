@@ -1,0 +1,512 @@
+{
+    "id": 550532,
+    "modelId": 357976,
+    "name": "v4.0",
+    "createdAt": "2024-06-04T16:52:55.387Z",
+    "updatedAt": "2024-06-04T17:06:47.133Z",
+    "status": "Published",
+    "publishedAt": "2024-06-04T17:06:47.131Z",
+    "trainedWords": [
+        "hina_(genshin_impact)",
+        "sethos_(genshin_impact)",
+        "raiden_shogun_mitake"
+    ],
+    "trainingStatus": null,
+    "trainingDetails": null,
+    "baseModel": "Pony",
+    "baseModelType": null,
+    "earlyAccessTimeFrame": 0,
+    "description": null,
+    "air": "urn:air:pony:lora:civitai:357976@550532",
+    "stats": {
+        "downloadCount": 3135,
+        "ratingCount": 0,
+        "rating": 0,
+        "thumbsUpCount": 366
+    },
+    "model": {
+        "name": "\uff08Pony\uff09All characters  Genshin Impact ( 124 characters)   \u539f\u795e\u5168\u89d2\u8272 124 \u4f4d",
+        "type": "LORA",
+        "nsfw": false,
+        "poi": false
+    },
+    "files": [
+        {
+            "id": 466681,
+            "sizeKB": 225175.80859375,
+            "name": "genshin_v4.safetensors",
+            "type": "Model",
+            "pickleScanResult": "Success",
+            "pickleScanMessage": "No Pickle imports",
+            "virusScanResult": "Success",
+            "virusScanMessage": null,
+            "scannedAt": "2024-06-04T17:06:41.829Z",
+            "metadata": {
+                "format": "SafeTensor",
+                "size": null,
+                "fp": null
+            },
+            "hashes": {
+                "AutoV1": "2943CDF6",
+                "AutoV2": "9FA1DF788C",
+                "SHA256": "9FA1DF788CE429FCD30F8995200D16F8705C716B894A984F8BAB02042AB1ACBD",
+                "CRC32": "EFD8FFAE",
+                "BLAKE3": "540EA6B5F9400F33558EEF878833AE4DD71FA5EBF2852598AFDE69774CF6FD10",
+                "AutoV3": "A69EDC71EBD2"
+            },
+            "primary": true,
+            "downloadUrl": "https://civitai.com/api/download/models/550532"
+        }
+    ],
+    "images": [
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ead23075-e9ff-4378-b1b3-442b1abaef78/width=450/14593009.jpeg",
+            "nsfwLevel": 2,
+            "width": 1600,
+            "height": 2381,
+            "hash": "U7K-Oet-00-pVY%fNaM{00R6~TR%_4%0i^E2",
+            "type": "image",
+            "metadata": {
+                "hash": "U7K-Oet-00-pVY%fNaM{00R6~TR%_4%0i^E2",
+                "size": 3929841,
+                "width": 1600,
+                "height": 2381
+            },
+            "availability": "Public",
+            "meta": null
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fd47e3b6-7514-4436-94fa-41e1365ae8ac/width=450/14593048.jpeg",
+            "nsfwLevel": 2,
+            "width": 832,
+            "height": 1216,
+            "hash": "UTH.4uITIpXm~WRPI;WBIpRixtbII;ayi_WX",
+            "type": "image",
+            "metadata": {
+                "hash": "UTH.4uITIpXm~WRPI;WBIpRixtbII;ayi_WX",
+                "size": 1056515,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 1478029539,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:genshin_v4": "e740db75bcc0"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:genshin_v4:1>,1boy, 1girl, absurdres, arataki_itto, bare_shoulders, black_gloves, blush, calligraphy_brush, cleavage, collarbone, distracted_boyfriend_\\(meme\\), dog_ears, dog_girl, dog_tail, gorou_\\(genshin_impact\\), green_eyes, green_kimono, highres, hina_\\(genshin_impact\\), large_breasts, light_brown_hair, long_hair, long_sleeves, looking_at_viewer, neck_ring, off_shoulder, pom_pom_hair_ornament, solo_focus, streaked_hair, tassel, white_hair, wide_sleeves",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "e740db75bcc0",
+                        "name": "genshin_v4",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "mole_under_eye,logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a2b640c6-e29d-4c7e-9503-a438929f0e73/width=450/14593091.jpeg",
+            "nsfwLevel": 1,
+            "width": 832,
+            "height": 1216,
+            "hash": "UbNK9oM{_N?b?bM{RjR+NeWBV?W;smofbbNG",
+            "type": "image",
+            "metadata": {
+                "hash": "UbNK9oM{_N?b?bM{RjR+NeWBV?W;smofbbNG",
+                "size": 925638,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 3301384735,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:genshin_v4": "e740db75bcc0"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:genshin_v4:1>,1girl, animal_ears, aqua_dress, blush, gloves, hair_between_eyes, heart-shaped_pupils, highres, light_blue_hair, long_sleeves, looking_at_viewer, low_twintails, nurse_cap, open_mouth, pink_bowtie, pom_pom_hair_ornament, red_eyes, short_hair, short_twintails, sigewinne_\\(genshin_impact\\), simple_background, smile, solo, two-sided_coat, two-sided_fabric, white_hat",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "e740db75bcc0",
+                        "name": "genshin_v4",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "mole_under_eye,logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/644d8186-34d8-4073-b5c3-ffc061cf3005/width=450/14593114.jpeg",
+            "nsfwLevel": 1,
+            "width": 832,
+            "height": 1216,
+            "hash": "UMLgC8~U?ax[?]-;yDkVTJt8smWUMx%1IBxZ",
+            "type": "image",
+            "metadata": {
+                "hash": "UMLgC8~U?ax[?]-;yDkVTJt8smWUMx%1IBxZ",
+                "size": 1235481,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 1712183129,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:genshin_v4": "e740db75bcc0"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:genshin_v4:1>,1boy, arm_behind_back, brown_hair, cropped_legs, dark-skinned_male, detached_sleeves, green_eyes, grey_hair, hair_ornament, highres, looking_at_viewer, male_focus, multicolored_hair, open_hand, orange_cape, sethos_\\(genshin_impact\\), solo, tassel, very_long_hair",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "e740db75bcc0",
+                        "name": "genshin_v4",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "mole_under_eye,logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1191ef75-0818-4574-895d-bcb96474e344/width=450/14593122.jpeg",
+            "nsfwLevel": 1,
+            "width": 832,
+            "height": 1216,
+            "hash": "UYKBL7js~q?b_3Rkj=oetPV@oM%LW?V@axRj",
+            "type": "image",
+            "metadata": {
+                "hash": "UYKBL7js~q?b_3Rkj=oetPV@oM%LW?V@axRj",
+                "size": 877394,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 4233437244,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:genshin_v4": "e740db75bcc0"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:genshin_v4:0.8>,1girl, solo, black_hair, gun, highres, black_corset, black_hat, black_pantyhose, black_ribbon, black_skirt, buttons, clorinde_\\(genshin_impact\\), closed_mouth, english_commentary, epaulettes, grey_background, hair_ribbon, high-waist_skirt, looking_at_viewer, pencil_skirt, pink_lips, purple_eyes, signature, simple_background, tricorne, white_gloves, white_shirt",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "e740db75bcc0",
+                        "name": "genshin_v4",
+                        "type": "lora",
+                        "weight": 0.8
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "mole_under_eye,logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b4167260-101d-4516-98b0-9c138893326c/width=450/14593222.jpeg",
+            "nsfwLevel": 1,
+            "width": 832,
+            "height": 1216,
+            "hash": "UCMG^y~WAc9G_LRj00xa.RIV9ZRP%h?bxDRj",
+            "type": "image",
+            "metadata": {
+                "hash": "UCMG^y~WAc9G_LRj00xa.RIV9ZRP%h?bxDRj",
+                "size": 1190744,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 3734812507,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:genshin_v4": "e740db75bcc0"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:genshin_v4:0.8>,1girl, lumine_\\(genshin_impact\\), maid_headdress, maid_apron, solo, sitting, smile, short_hair_with_long_locks, sidelocks, cleavage, enmaided, zettai_ryouiki, highres, absurdres, white_thighhighs, blue_bowtie, white_flower, detached_collar, nasii, commentary_request, white_collar, hair_flower, parted_lips, short_sleeves, black_dress, frilled_dress, looking_at_viewer, white_apron",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "e740db75bcc0",
+                        "name": "genshin_v4",
+                        "type": "lora",
+                        "weight": 0.8
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "mole_under_eye,logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1dae12bf-1f42-4ff0-a649-76c4c338c14c/width=450/14593318.jpeg",
+            "nsfwLevel": 4,
+            "width": 832,
+            "height": 1216,
+            "hash": "UWMH4II9?vx]?wtS-n%LNHR-MwIUtSn#WXt7",
+            "type": "image",
+            "metadata": {
+                "hash": "UWMH4II9?vx]?wtS-n%LNHR-MwIUtSn#WXt7",
+                "size": 1101538,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 3405069382,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:genshin_v4": "e740db75bcc0"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:genshin_v4:0.8>,1girl, ganyu_\\(genshin_impact\\), solo, arms_up, sitting, horns, blue_hair, very_long_hair, ahoge, sidelocks, large_breasts, armpits, bare_shoulders, bodystocking, commentary_request, detached_sleeves, gold_trim, hair_between_eyes, high-waist_skirt, looking_at_viewer, neck_bell, one_eye_closed, purple_eyes, simple_background, white_background, white_skirt, white_sleeves",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "e740db75bcc0",
+                        "name": "genshin_v4",
+                        "type": "lora",
+                        "weight": 0.8
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "mole_under_eye,logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/383cc4f8-62be-4ad3-82fb-2f72bca44a35/width=450/14593321.jpeg",
+            "nsfwLevel": 4,
+            "width": 832,
+            "height": 1216,
+            "hash": "UhMHDfWB_Nt8_3xa$~odbIozxDR+%Mt7n~WB",
+            "type": "image",
+            "metadata": {
+                "hash": "UhMHDfWB_Nt8_3xa$~odbIozxDR+%Mt7n~WB",
+                "size": 984836,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 475607203,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:genshin_v4": "e740db75bcc0"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:genshin_v4:0.8>,1girl, ganyu_\\(genshin_impact\\), solo, cowboy_shot, horns, blue_hair, ahoge, small_breasts, tassel, highres, artist_name, black_gloves, bodystocking, closed_mouth, detached_sleeves, long_sleeves, looking_at_viewer, neck_bell, purple_eyes, simple_background, white_background, white_skirt",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "e740db75bcc0",
+                        "name": "genshin_v4",
+                        "type": "lora",
+                        "weight": 0.8
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "mole_under_eye,logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/be7c77dd-427f-4ea4-a36e-227af93074c4/width=450/14593376.jpeg",
+            "nsfwLevel": 8,
+            "width": 832,
+            "height": 1216,
+            "hash": "UHK1OM00_Nsq~q%MtQRPpJ9GM{aL00IoM{Rj",
+            "type": "image",
+            "metadata": {
+                "hash": "UHK1OM00_Nsq~q%MtQRPpJ9GM{aL00IoM{Rj",
+                "size": 1142679,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 2527070082,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:genshin_v4": "e740db75bcc0"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:genshin_v4:0.8>,1girl, keqing_\\(genshin_impact\\), solo, sitting, cone_hair_bun, purple_hair, twintails, medium_breasts, cleavage, feet, legs, toes, highres, black_pantyhose, black_shirt, double_bun, foot_out_of_frame, hair_ears, id_card, lab_coat, looking_at_viewer, no_shoes, pleated_skirt, purple_eyes, soles",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "e740db75bcc0",
+                        "name": "genshin_v4",
+                        "type": "lora",
+                        "weight": 0.8
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "mole_under_eye,logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4dd44463-b49d-42c0-a3f7-7f0047f49daf/width=450/14593375.jpeg",
+            "nsfwLevel": 4,
+            "width": 832,
+            "height": 1216,
+            "hash": "UMLWt@~qX-%0.9%M-oNa9bNHR%V@t6s.rrt7",
+            "type": "image",
+            "metadata": {
+                "hash": "UMLWt@~qX-%0.9%M-oNa9bNHR%V@t6s.rrt7",
+                "size": 1153124,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 2469556520,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:genshin_v4": "e740db75bcc0"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:genshin_v4:0.8>,1girl, keqing_\\(genshin_impact\\), solo, cowboy_shot, upper_body, blush, cone_hair_bun, long_hair, purple_hair, twintails, hair_ornament, medium_breasts, navel, alternate_costume, absurdres, highres, :p, bare_shoulders, black_bikini, blurry, curtains, double_bun, looking_at_viewer, neck_bell, off_shoulder, open_shirt, red_choker, see-through, single_braid, stomach, string_bikini, untied_bikini",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "e740db75bcc0",
+                        "name": "genshin_v4",
+                        "type": "lora",
+                        "weight": 0.8
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "mole_under_eye,logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        }
+    ],
+    "downloadUrl": "https://civitai.com/api/download/models/550532"
+}

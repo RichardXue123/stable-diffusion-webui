@@ -1,0 +1,183 @@
+{
+    "id": 398313,
+    "modelId": 356298,
+    "name": "High Heels",
+    "createdAt": "2024-03-18T11:55:33.033Z",
+    "updatedAt": "2024-03-18T18:01:20.613Z",
+    "status": "Published",
+    "publishedAt": "2024-03-18T17:50:02.418Z",
+    "trainedWords": [
+        "high heels, sexy high heels, heel 15 cm",
+        "high boots, sexy high boots"
+    ],
+    "trainingStatus": "Approved",
+    "trainingDetails": {
+        "type": "Concept",
+        "params": {
+            "unetLR": 0.0005,
+            "clipSkip": 1,
+            "loraType": "lora",
+            "keepTokens": 0,
+            "networkDim": 32,
+            "numRepeats": 10,
+            "resolution": 1024,
+            "lrScheduler": "cosine_with_restarts",
+            "minSnrGamma": 5,
+            "noiseOffset": 0.1,
+            "targetSteps": 900,
+            "enableBucket": true,
+            "networkAlpha": 16,
+            "optimizerType": "Adafactor",
+            "textEncoderLR": 5e-05,
+            "maxTrainEpochs": 10,
+            "shuffleCaption": false,
+            "trainBatchSize": 4,
+            "flipAugmentation": false,
+            "lrSchedulerNumCycles": 3
+        },
+        "baseModel": "sdxl",
+        "samplePrompts": [
+            "high heels, sexy high heels, heel 15 cm",
+            "high heels, sexy high heel, heel 15 cm",
+            "high heels, sexy high heels, heel 15 cm"
+        ]
+    },
+    "baseModel": "SDXL 1.0",
+    "baseModelType": null,
+    "earlyAccessTimeFrame": 0,
+    "description": "<p>version 1.0</p>",
+    "air": "urn:air:sdxl:lora:civitai:356298@398313",
+    "stats": {
+        "downloadCount": 604,
+        "ratingCount": 0,
+        "rating": 0,
+        "thumbsUpCount": 64
+    },
+    "model": {
+        "name": "High Heels",
+        "type": "LORA",
+        "nsfw": false,
+        "poi": false
+    },
+    "files": [
+        {
+            "id": 321185,
+            "sizeKB": 2117.0947265625,
+            "name": "398313_training_data.zip",
+            "type": "Training Data",
+            "pickleScanResult": "Success",
+            "pickleScanMessage": "No Pickle imports",
+            "virusScanResult": "Success",
+            "virusScanMessage": null,
+            "scannedAt": "2024-03-18T12:05:39.464Z",
+            "metadata": {
+                "format": "Other"
+            },
+            "hashes": {
+                "AutoV1": "869CA803",
+                "AutoV2": "117FF551D3",
+                "SHA256": "117FF551D3109AEBEFBF1A3546BDF7772A9129165FEEAA28FB20B90ECD5CF330",
+                "CRC32": "9C7B9FA6",
+                "BLAKE3": "5EA2BF07F442FDBCF7CC418C3EA70261087D4A2D9F9EFA5F7C7D6CA43E0366A5"
+            },
+            "primary": false,
+            "downloadUrl": "https://civitai.com/api/download/models/398313?type=Training%20Data"
+        },
+        {
+            "id": 321629,
+            "sizeKB": 223099.61328125,
+            "name": "High_Heels-000008.safetensors",
+            "type": "Model",
+            "pickleScanResult": "Success",
+            "pickleScanMessage": "No Pickle imports",
+            "virusScanResult": "Success",
+            "virusScanMessage": null,
+            "scannedAt": "2024-03-18T17:36:56.126Z",
+            "metadata": {
+                "format": "SafeTensor"
+            },
+            "hashes": {
+                "AutoV1": "FF1AAA8B",
+                "AutoV2": "CBC8E56372",
+                "SHA256": "CBC8E563725356C5AC4429E1819E40EEDB14AA4CDA49D5F18D2D0CF4E841734D",
+                "CRC32": "15EB6C95",
+                "BLAKE3": "0CE7A3955DCE182340183F4B574D6B825628CE39B6F289A09B50A3A0C918D0B6",
+                "AutoV3": "07E0002C09AF"
+            },
+            "primary": true,
+            "downloadUrl": "https://civitai.com/api/download/models/398313"
+        }
+    ],
+    "images": [
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/024ee50f-1293-46f6-ace2-4de53c7d5be0/width=450/8169111.jpeg",
+            "nsfwLevel": 1,
+            "width": 1024,
+            "height": 1024,
+            "hash": "UBJHUDDO2wO@}?MxActlPBX9r=RiH?WBR*aK",
+            "type": "image",
+            "metadata": {
+                "hash": "UBJHUDDO2wO@}?MxActlPBX9r=RiH?WBR*aK",
+                "size": 1117900,
+                "width": 1024,
+                "height": 1024
+            },
+            "availability": "Public",
+            "meta": {
+                "seed": 0,
+                "steps": 1,
+                "prompt": "sexy high heels, heel 15 cm, black leather high heels",
+                "sampler": "DPM++ SDE Karras",
+                "cfgScale": 5,
+                "negativePrompt": "multiple shoes, poor details"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/23f12e81-eeb2-406b-bbb1-15baec65632e/width=450/8169109.jpeg",
+            "nsfwLevel": 1,
+            "width": 1024,
+            "height": 1024,
+            "hash": "UAKA.._2.kNGTgx]?FRiB=%M=ti_Djt7xrRj",
+            "type": "image",
+            "metadata": {
+                "hash": "UAKA.._2.kNGTgx]?FRiB=%M=ti_Djt7xrRj",
+                "size": 1220524,
+                "width": 1024,
+                "height": 1024
+            },
+            "availability": "Public",
+            "meta": {
+                "seed": 0,
+                "steps": 1,
+                "prompt": "sexy high heels, heel 15 cm, ",
+                "sampler": "DPM++ SDE Karras",
+                "cfgScale": 5,
+                "negativePrompt": "multiple shoes"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/96eaf951-d9e9-481d-bcb2-82fb056e33d1/width=450/8169113.jpeg",
+            "nsfwLevel": 1,
+            "width": 1024,
+            "height": 1024,
+            "hash": "UDG*$n%g1Q~C4nofx]-o_3M|xajFMwWBIVae",
+            "type": "image",
+            "metadata": {
+                "hash": "UDG*$n%g1Q~C4nofx]-o_3M|xajFMwWBIVae",
+                "size": 1214462,
+                "width": 1024,
+                "height": 1024
+            },
+            "availability": "Public",
+            "meta": {
+                "seed": 0,
+                "steps": 1,
+                "prompt": "sexy high heels, high heels, heel 15 cm, white leather high heels",
+                "sampler": "DPM++ 2M Karras",
+                "cfgScale": 4,
+                "negativePrompt": "multiple shoes"
+            }
+        }
+    ],
+    "downloadUrl": "https://civitai.com/api/download/models/398313"
+}

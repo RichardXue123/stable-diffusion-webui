@@ -1,0 +1,508 @@
+{
+    "id": 510748,
+    "modelId": 434763,
+    "name": "v2.0",
+    "createdAt": "2024-05-16T18:28:52.945Z",
+    "updatedAt": "2024-05-17T06:17:48.097Z",
+    "status": "Published",
+    "publishedAt": "2024-05-17T06:17:48.084Z",
+    "trainedWords": [
+        "all in one"
+    ],
+    "trainingStatus": null,
+    "trainingDetails": null,
+    "baseModel": "Pony",
+    "baseModelType": null,
+    "earlyAccessTimeFrame": 0,
+    "description": null,
+    "air": "urn:air:pony:lora:civitai:434763@510748",
+    "stats": {
+        "downloadCount": 1337,
+        "ratingCount": 0,
+        "rating": 0,
+        "thumbsUpCount": 186
+    },
+    "model": {
+        "name": "All characters Honkai: Star Rail  \u661f\u7a79\u94c1\u9053\u5168\u89d2\u8272",
+        "type": "LORA",
+        "nsfw": false,
+        "poi": false
+    },
+    "files": [
+        {
+            "id": 428112,
+            "sizeKB": 111955.84765625,
+            "name": "star_rail_all_v2.safetensors",
+            "type": "Model",
+            "pickleScanResult": "Success",
+            "pickleScanMessage": "No Pickle imports",
+            "virusScanResult": "Success",
+            "virusScanMessage": null,
+            "scannedAt": "2024-05-16T18:32:09.839Z",
+            "metadata": {
+                "format": "SafeTensor",
+                "size": null,
+                "fp": null
+            },
+            "hashes": {
+                "AutoV1": "5B5043B9",
+                "AutoV2": "C80381144C",
+                "SHA256": "C80381144C31D39147F6768D47E12F41E063058D8187C388CC7DBE81BB0C829D",
+                "CRC32": "1BF74C4C",
+                "BLAKE3": "E152CB0C6A251063BBBC8449F8AFC42104551A608EF2FD8A2DB4DEB542D4A7E2",
+                "AutoV3": "9745828E9A27"
+            },
+            "primary": true,
+            "downloadUrl": "https://civitai.com/api/download/models/510748"
+        }
+    ],
+    "images": [
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1434e8b5-0aa1-46b4-a366-fc5271a922a3/width=450/12693104.jpeg",
+            "nsfwLevel": 2,
+            "width": 1460,
+            "height": 2173,
+            "hash": "U6KnJC=w4.~qwPWZkPWE0hE0=xRQ-oRPxuNF",
+            "type": "image",
+            "metadata": {
+                "hash": "U6KnJC=w4.~qwPWZkPWE0hE0=xRQ-oRPxuNF",
+                "size": 3604877,
+                "width": 1460,
+                "height": 2173
+            },
+            "availability": "Public",
+            "meta": null
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8f8f2bb2-8e44-4750-bae1-f5846f8020f8/width=450/12693136.jpeg",
+            "nsfwLevel": 1,
+            "width": 832,
+            "height": 1216,
+            "hash": "UKL;ET_4?^$|_N9GtSV@IVIV_3xu-:-pMxWA",
+            "type": "image",
+            "metadata": {
+                "hash": "UKL;ET_4?^$|_N9GtSV@IVIV_3xu-:-pMxWA",
+                "size": 928595,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 2700058073,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:star_rail_all_v2": "9745828e9a27"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:star_rail_all_v2:1>,1girl, black_jacket, black_skirt, bra_strap, commentary_request, fedora, gloves, grey_hair, highres, letterboxed, long_hair, looking_at_viewer, open_jacket, short_sleeves, smile, solo, stelle_\\(honkai:_star_rail\\), trailblazer_\\(honkai:_star_rail\\), upper_body, white_shirt, yellow_eyes",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "9745828e9a27",
+                        "name": "star_rail_all_v2",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ae62560d-65ba-4e74-b832-5ca90fa89846/width=450/12693159.jpeg",
+            "nsfwLevel": 2,
+            "width": 832,
+            "height": 1216,
+            "hash": "UKJHzWD$_M%g?axu^%WENMf,M_jY9aWUs8s:",
+            "type": "image",
+            "metadata": {
+                "hash": "UKJHzWD$_M%g?axu^%WENMf,M_jY9aWUs8s:",
+                "size": 1162611,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 1981765553,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:star_rail_all_v2": "9745828e9a27"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:star_rail_all_v2:1>,1girl, looking_at_viewer, solo, navel, single_bare_shoulder, elbow_gloves, medium_breasts, highres, stomach, hair_over_one_eye, bandaged_arm, :t, commentary, acheron_\\(honkai:_star_rail\\), black_choker, holding_fruit, black_gloves, cleavage, upper_body, midriff, peach",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "9745828e9a27",
+                        "name": "star_rail_all_v2",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/44b23330-df20-490a-9a71-d28499277048/width=450/12673397.jpeg",
+            "nsfwLevel": 1,
+            "width": 832,
+            "height": 1216,
+            "hash": "UmMG*S%2o~R*~qbbxvxuxtoLogWBX9WBocWB",
+            "type": "image",
+            "metadata": {
+                "hash": "UmMG*S%2o~R*~qbbxvxuxtoLogWBX9WBocWB",
+                "size": 1166841,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 3963503253,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:star_rail_all_v2": "9745828e9a27"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:star_rail_all_v2:1>,firefly_\\(honkai:_star_rail\\), 1girl, black_hairband, grey_hair, long_hair, purple_eyes, black_jacket, long_sleeves, hair_between_eyes, white_shirt, very_long_hair",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "resources": [
+                    {
+                        "hash": "9745828e9a27",
+                        "name": "star_rail_all_v2",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/adf5800f-557a-438c-8060-3261858dd4ea/width=450/12693177.jpeg",
+            "nsfwLevel": 1,
+            "width": 832,
+            "height": 1216,
+            "hash": "UXL;$]xu_3xu~pNGa1ofx^kBxuR*-qs:ozt7",
+            "type": "image",
+            "metadata": {
+                "hash": "UXL;$]xu_3xu~pNGa1ofx^kBxuR*-qs:ozt7",
+                "size": 1018495,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 4275393244,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:star_rail_all_v2": "9745828e9a27"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:star_rail_all_v2:1>,1girl,solo,neck_ribbon,>_<,facing_viewer,red_ribbon,highres,sweatdrop,beret,hands_on_own_head,sidelocks,hair_intakes,long_sleeves,huohuo_\\(honkai:_star_rail\\),chibi_only,hitodama,sleeve_cuffs,green_hat,white_shirt,upper_body,open_mouth,wavy_mouth,",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "9745828e9a27",
+                        "name": "star_rail_all_v2",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4fc3090c-bc49-468f-8f0a-01de4aa1f733/width=450/12693207.jpeg",
+            "nsfwLevel": 1,
+            "width": 832,
+            "height": 1216,
+            "hash": "UVODa^xv_NM{~qoyads..7WBV@xuxZaeRjWr",
+            "type": "image",
+            "metadata": {
+                "hash": "UVODa^xv_NM{~qoyads..7WBV@xuxZaeRjWr",
+                "size": 981426,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 1062299779,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:star_rail_all_v2": "9745828e9a27"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:star_rail_all_v2:1>,1girl, looking_at_viewer, solo, halter_dress, highres, hair_over_one_eye, white_background, commission, blue_dress, jingliu_\\(honkai:_star_rail\\), from_side, one_eye_covered, hair_ribbon, cleavage, upper_body, expressionless, simple_background, detached_sleeves, bare_shoulders, absurdres",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "9745828e9a27",
+                        "name": "star_rail_all_v2",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/735315ad-002e-4a14-8542-d2b655c22e90/width=450/12693244.jpeg",
+            "nsfwLevel": 1,
+            "width": 832,
+            "height": 1216,
+            "hash": "UCGbn*IU02JV~Axa019a9YxujZIU4oNew]xa",
+            "type": "image",
+            "metadata": {
+                "hash": "UCGbn*IU02JV~Axa019a9YxujZIU4oNew]xa",
+                "size": 1283442,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 1225383025,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:star_rail_all_v2": "9745828e9a27"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:star_rail_all_v2:1>,aventurine_\\(honkai:_star_rail\\),1boy,blonde_hair,short_hair,hair_between_eyes,multicolored_eyes,black_gloves,collared_shirt,earrings,aqua_shirt,fur_trim,bracelet,neck_tattoo,clothing_cutout,two-tone_eyes,",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "9745828e9a27",
+                        "name": "star_rail_all_v2",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ae4ef90c-ed1c-496c-91df-3c9249fc11d6/width=450/12693270.jpeg",
+            "nsfwLevel": 1,
+            "width": 832,
+            "height": 1216,
+            "hash": "UeN^3zM{XUt7~CaxkVofS$ofk9of?vWBR*t7",
+            "type": "image",
+            "metadata": {
+                "hash": "UeN^3zM{XUt7~CaxkVofS$ofk9of?vWBR*t7",
+                "size": 1034858,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 1235734527,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:star_rail_all_v2": "9745828e9a27"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:star_rail_all_v2:1>,1girl, march_7th_\\(honkai:_star_rail\\), pink_hair, blue_eyes, white_shirt, medium_hair, long_sleeves, pink_eyes, two-tone_eyes, blue_jacket, black_choker, medium_breasts, hair_between_eyes, blue_skirt",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "9745828e9a27",
+                        "name": "star_rail_all_v2",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5a4187bb-f811-4b33-93a7-bb5d9c239f79/width=450/12693284.jpeg",
+            "nsfwLevel": 1,
+            "width": 832,
+            "height": 1216,
+            "hash": "UjKKZr^+tSbH~pxaxvkCR.V@ofaeflWBoej[",
+            "type": "image",
+            "metadata": {
+                "hash": "UjKKZr^+tSbH~pxaxvkCR.V@ofaeflWBoej[",
+                "size": 1305389,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 2950247401,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:star_rail_all_v2": "9745828e9a27"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:star_rail_all_v2:1>,jing_yuan, 1boy, yellow_eyes, long_hair, hair_over_one_eye, mole_under_eye, white_hair, high_ponytail, chinese_clothes, hair_ribbon, red_ribbon, long_sleeves, grey_hair",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "resources": [
+                    {
+                        "hash": "9745828e9a27",
+                        "name": "star_rail_all_v2",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        },
+        {
+            "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/408c863f-c2e9-422d-b2e9-41b5b0a3c54d/width=450/12693360.jpeg",
+            "nsfwLevel": 2,
+            "width": 832,
+            "height": 1216,
+            "hash": "UAG+5?^-0PNO8_?b009G009D~mx]R4tM-P-;",
+            "type": "image",
+            "metadata": {
+                "hash": "UAG+5?^-0PNO8_?b009G009D~mx]R4tM-P-;",
+                "size": 1242694,
+                "width": 832,
+                "height": 1216
+            },
+            "availability": "Public",
+            "meta": {
+                "Size": "832x1216",
+                "seed": 3385837313,
+                "Model": "autismmixSDXL_autismmixPony",
+                "steps": 28,
+                "hashes": {
+                    "model": "821aa5537f",
+                    "lora:star_rail_all_v2": "9745828e9a27"
+                },
+                "prompt": "score_9,score_8_up,score_7_up,<lora:star_rail_all_v2:1>,1girl, looking_at_viewer, solo, purple_dress, highres, sleeveless_dress, veil, holding_card, partial_commentary, black_swan_\\(honkai:_star_rail\\), large_breasts, smile, black_gloves, cleavage, upper_body, bare_shoulders, bracelet, commentary_request",
+                "Version": "v1.9.3",
+                "sampler": "Euler a",
+                "cfgScale": 7,
+                "clipSkip": 2,
+                "Pad conds": "True",
+                "resources": [
+                    {
+                        "hash": "9745828e9a27",
+                        "name": "star_rail_all_v2",
+                        "type": "lora",
+                        "weight": 1
+                    },
+                    {
+                        "hash": "821aa5537f",
+                        "name": "autismmixSDXL_autismmixPony",
+                        "type": "model"
+                    }
+                ],
+                "Model hash": "821aa5537f",
+                "Schedule type": "Automatic",
+                "negativePrompt": "logo,score_4,score_5,score_6,lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],",
+                "Downcast alphas_cumprod": "True"
+            }
+        }
+    ],
+    "downloadUrl": "https://civitai.com/api/download/models/510748"
+}
